@@ -9,8 +9,8 @@ public class Stream implements Iterable<StudentGroup> {
         return studentGroupList;
     }
 
-    public void setStudentGroupList(List<StudentGroup> studentGroup3List) {
-        this.studentGroupList = studentGroup3List;
+    public void setStudentGroupList(List<StudentGroup> studentGroupList) {
+        this.studentGroupList = studentGroupList;
     }
 
     @Override

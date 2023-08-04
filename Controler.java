@@ -13,8 +13,8 @@ public class Controler {
         return null;
     }
 
-    public List<StudentGroup> getSortedStudentGroup3List() {
-        streamService.getSortedStudentGroup3List();
+    public List<StudentGroup> getSortedStudentGroupList() {
+        streamService.getSortedStudentGroupList();
         return null;
     }
 
